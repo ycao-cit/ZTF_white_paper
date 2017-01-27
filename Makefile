@@ -3,7 +3,7 @@
 # Yi Cao, 2016-12-08 09:45
 #
 
-OBJ = note
+OBJ = WhitePaper
 LATEX = /Library/TeX/texbin/pdflatex
 BIBTEX = /Library/TeX/texbin/bibtex
 
